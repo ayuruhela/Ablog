@@ -1,0 +1,2 @@
+# Ablog
+Ablog stands for Anonymous Blog.This web application i have made for those people who want to write blog without creating an account and get featured in my websites. To write blog for the users i have added ckeditor plugins through which user can write blog according their style. This Website has been made on Django framework. However this website are incompleted... trying to completed soon.
